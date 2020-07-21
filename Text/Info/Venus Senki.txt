@@ -1,0 +1,3 @@
+It's the year 2089 AD, 71 years after the Planet Venus has been made habitable. Long "Ishtar" and "Aphrodia" fought for dominance of the planet. Now as it seems that history repeats itself, "Hound", a rebel biker group, sets out to free the city Io from its suppressor Ishtar.
+
+The game does look like a typical strategy game, in which the player moves all units per turn, until a character enters close combat (by moving unto the enemy). Here the character rides on a bike and tries to shoot a set number of enemies within 1 minute while trying to not being hit. For each hit the character receive experience and eventually level ups.

@@ -1,0 +1,13 @@
+The game is based on a popular animé series for children. The hero Anpanman is the son of the baker Jam-ojisan. His head is made entirely out of bread and bean jam. He rescues starving creatures, to whom he gives parts of his head to eat, and fights the evil Baikinman ("Germ Man") and his minions.
+
+This game contains five mini-games, some of which have educational purposes. The game is controlled entirely by a special mouse-like device which is shipped with it. The mini-games are:
+
+1. Try to catch the apples Anpanman drops from the sky by running around a small field.
+
+2. Combine puzzle pieces together to create images of the animé's characters.
+
+3. Practice to write Japanese syllables (hiragana) with the help of Anpanman.
+
+4. Figure out the differences between similar pictures.
+
+5. Uncover characters' faces by clicking on empty spaces on a board. Uncovering an enemy's face will make you fail (a concept not unlike  Minesweeper).

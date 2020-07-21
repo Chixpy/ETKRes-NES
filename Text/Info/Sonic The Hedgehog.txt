@@ -1,0 +1,5 @@
+Somari  the Adventurer is a Sonic the Hedgehog port for the NES, with a twist. Instead of Sonic, the player controls Somari, which can be described as Mario in Sonic's shoes, literally.
+
+Overall, the gameplay is quite faithful to the original game, though Somari can spindash (by pressing down and A or B), a feature fist introduced in Sonic the Hedgehog 2. Somari has to collect rings, but unlike in Sonic, if he's hit by an enemy, only three rings will fly out of him, no matter how many rings he's currently carrying.
+
+The level sequence is faithful to the original game, with the exception of the Scrap Brain level, which wasn't finished and thus was removed from the final product. The level design ins't faithful to the original version, with constant changes throughout the game. The items and monsters are the same found in the original game, and the music is as faithfully translated to the NES as possible, with some tempo variations.

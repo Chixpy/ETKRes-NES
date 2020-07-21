@@ -1,0 +1,3 @@
+This is the very first of the famous Japanese RPG series Megami Tensei. A computer programmer named Nakajima created a software called "Devil Summoning Program". Accidentally Nakajima summons Lucifer and other terrible demons. Now he has to exorcize them. But in order to do that, he'll still need help from his program...
+
+"Megami Tensei" introduces the demon summoning feature that was used later in all its sequels. You can communicate with various demons via your computer, summon them, build minions, and make them fight for you. The first-person combat uses a turn-based engine.

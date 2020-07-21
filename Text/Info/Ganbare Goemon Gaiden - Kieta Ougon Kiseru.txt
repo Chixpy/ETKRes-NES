@@ -1,0 +1,3 @@
+This is a semi-humorous console-style RPG set in medieval Japan. It tells us about the adventures of Goemon, the noble thief and skillful martial artist. One day Goemon returns home and finds out his favorite smoking pipe is gone. Who could have done such a horrible crime? Goemon's friend Ebisumaru offers to help him to find out the criminal, and both embark on a journey full of adventures and danger.
+
+Like most console-style RPGs of the time, "Goemon Gaiden" utilizes a simple turn-based battle system. You talk to town people to gather information, buy weapons, armor and items, fight random enemies, descend into dungeons and find treasures.

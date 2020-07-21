@@ -1,0 +1,5 @@
+Cosmic Wars takes you back to the Gradius universe as the 650-year long alliance between the Gradius empire and the Bacterions shatters and war breaks out again. The difference this time is that instead of fighting from the cockpit of your Vic-Viper starfighter you'll now be taking the commander's chair and take strategic control of your entire fleet.
+
+The game is a turn-based strategy game in which you must first assemble your armada and then take them into outer space to defeat the enemy fleet. You view the action from a top-down galactic map and success in each phase rewards you with further cash which you can use to buy more ships. The game will continue until the enemy fleet is obliterated (or yours).
+
+The game doesn't include a campaign, but instead provides you with a scenario designer from which you select the AI difficulty, which side you will take (you can play as either the Gradius empire or the Bacterions) the map you'll play and away you go. Features single or 2-player Vs gameplay.

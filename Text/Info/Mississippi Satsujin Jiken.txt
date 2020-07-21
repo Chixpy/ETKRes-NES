@@ -1,0 +1,7 @@
+The famous detective Sir Charles Foxworth is taking a holiday on the Mississippi with his servant Regis on the Delta Princess.  He's just taking a stroll around the upper deck of the ship when he discovers an open cabin door. Behind it: a dead man. As it  turns out, the body of Raleigh Cartwright III. Sir Charles has three days to find the murderer, because then, the ship will reach  New Orleans, giving the culprit a safe chance to escape.
+
+The joystick controls the player's sprite to move into the respective direction, and pressing the button opens a menu with  appropriate commands for the current situation. Walk around, Inspect an item, or examine evidence. 
+
+You will meet some very interesting characters who also happen to be suspects. Use these encounters as a fact-finding  session. take notes on what he or she has said. Share these notes with other passengers and crew members.But your first  job is to find the body. Until you do, any information you gather will be of little value. Once you find the body, the other  passengers will prove to be much more talkative.
+
+Collect as many notes and evidence as you can to solve the mystery. Once you think that you have it solved, make an  accusation by going to the character that you want to accuse and by using the joystick, point to Talk to

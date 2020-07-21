@@ -1,0 +1,5 @@
+Hissatsu Doujou Yaburi is an RPG - beat-'em-up hybrid that casts you as a novice martial artist that sets out to roam the ancient Chinese countryside in order to hone his skills and earn fame and fortune.
+
+Starting from your village, you must explore your surroundings by walking and jumping across the land in simple side-scrolling fashion, that is until you run across an enemy (fellow martial artists, bandits, ghouls, etc.) and enter combat mode, which allows you to unleash attacks based on your skill level to try and defeat your opponent (always using the 2D side-scrolling engine).
+
+Victory will earn you money and other bonuses which can be used back in town to upgrade your skills and regain health. You can also enter special tournaments found as special buildings across the land in which you must defeat a series of opponents in succession before facing off against the reigning champion. Victory here will reward you with even more money and will mean more people will recognize you in your travels.

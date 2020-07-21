@@ -1,0 +1,7 @@
+Recca is a vertical-scrolling sci-fi shooter in which you pilot a lone starfighter sent to obliterate the alien armada invasion that looms over the horizon.
+
+The game features four stages initially plus four arranged stages that get unlocked once you finish the game. Your arsenal consists of 5 primary weapons and 5 secondary or "option" weapons, each obtainable by collecting the power-ups left by incoming enemies and upgraded in power and spread by further collecting power-ups. 
+
+Bombs are not provided for your ship, instead whenever you stop firing, you start to build up a power surge at the front of your ship which can be used to deflect incoming fire, charge it for enough time however, and you can shoot a devastating screen-clearing attack in the same fashion as bombs. This is easier said than done in later levels as the game is known for sending enemies at you at blazing speeds and generally being one of the fastest shooters ever developed.
+
+Features Normal, Score Attack and Time Attack modes. Single-player only.

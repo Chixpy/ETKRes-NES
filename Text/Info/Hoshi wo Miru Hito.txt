@@ -1,0 +1,5 @@
+In the far future, the apocalypse has come and gone. Now people leave peacefully in rural cities making the best of the advanced technology that survives and trying to win back the world day by day. Ark City, the crown jewel of technological advances, has managed to put back into operation a super computer capable of taking control of every aspect of civilization, right down to weather and mind control. This does not bode well for the people of the world, so you as an ESP-gifted warrior take it upon yourself to journey to Ark City and get rid of this threat.
+
+Hoshi wo Miru Hito is a classic NES-era RPG, in which you navigate your party (composed of you and 3 other ESP-wielding heroes you can find) in a top-down world map, chat with NPCs in towns, buy weapons and armor, and finally journey into dungeons to gain clues that help you in your journey.
+
+Combat whisks you away from the top-down perspective to a battle view in which you see your opponents and heroes in a first-person perspective, and assign actions in turns, with the ESP powers taking the place of magic spells.

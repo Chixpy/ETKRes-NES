@@ -1,0 +1,3 @@
+Fighting Road is a one-on-one fighting game in which you take the role of a nameless martial artist out to pummel a collection of enemy fighters in order to be crowned grand master.
+
+The game plays from a non-scrolling side view and plays like most one-on-one fighters: you move around the screen avoiding your opponent's attacks and then unleash your own with combinations of your attack buttons and directional arrows. Additionally the game features special moves in the form of specific combinations of directional moves that trigger unique attacks. These moves however deplete your stamina bar which can leave you defenseless against enemy attacks.

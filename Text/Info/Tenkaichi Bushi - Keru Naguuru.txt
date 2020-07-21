@@ -1,0 +1,5 @@
+Tenkaichi Bushi is a one-on-one martial arts fighting game set in ancient China.
+
+Using 2D side-scrolling graphics with a distinct cartoony design, the player takes control of a single fighter as he attempts to defeat his opponent in single-round fights. Combat is controlled with a single attack button which can unleash all sorts of moves when pressed in conjunction with the directional arrows. These moves vary among each fighter, as players can choose from 15 different fighters, each with their own stats and moves, and then compete against the others to see who gets the honor of becoming grandmaster.
+
+Additionally the game includes a story mode in which players can take control of a single martial artist and roam the countryside looking for challengers (the later done from a top-down map view). Starting abilities and health are minimal, but successfully defeating opponents will increase the player's health and allow the fighter to learn new moves and turn into the ultimate combatant.
