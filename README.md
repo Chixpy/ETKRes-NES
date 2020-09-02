@@ -7,17 +7,21 @@ Icons, images, texts, videos, etc. for use with [Emuteca](https://github.com/Chi
 
 ### Screenshot, Titles
 
-All images are png format. 320x240, without any filter.
+Rule #1: No filters to screenshots.
 
-### Front, Back, Spine
+All images in .png format at original resolution: *320x240*
 
-Escaned .jpg
+### Front, Back, Spine, Ads, Reviews, Media, Other
 
-### Icons
+Escaned .jpg; with a maximum of 2048x2048, don't enlarge artificially (if larger, we can resize it to 2048 the larger side, keeping aspect ratio and a quality of 90%). Trying not to do transformations and resave it. Lossless rotation or cropping allowed.
+
+### Icons, Logos
+
+Rule #1: Only 1 image for group or game. No folders with multiple images.
 
 Icons are mainly extracted from game screenshots at original resolution. Usually they are protagonist frames or lives icons (if they are similar to protagonist).
 
-All images are png format. Width and Height are variable, using it's original size without resizing to a fixed size or adding more border to make it square. Emuteca handle they automatically.
+All images are .png format. Width and Height are variable, using it's original size without resizing to a fixed size or adding more border to make it square. Emuteca handle they automatically.
 
 The only time that the image will be scaled is when all 'icon pixels' are 2x2, 3x3, etc. pixels.
 
