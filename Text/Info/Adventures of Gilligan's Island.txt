@@ -1,4 +1,4 @@
-The plot is based on a TV sitcom of the 60's named Gilligan's Island.  Your ship crashed on a deserted island, and now you must get back to civilization.  The stranded people on the island are: Gilligan and the Skipper ( the crew of the ship), a millionaire and his wife, a professor, and Mariann who is a homely Midwest U.S.A. girl.
+The plot is based on a TV sitcom of the 60's named Gilligan's Island.  Your ship crashed on a deserted island, and now you must get back to civilization.  The stranded people on the island are: Gilligan and the Skipper (the crew of the ship), a millionaire and his wife, a professor, and Mariann who is a homely Midwest U.S.A. girl.
 
 Despite the name, you'll be playing as the Skipper. Gilligan follows you around as a comedic relief sidekick. The game is divided into four episodes; the goal is always to locate all crew members in a limited amount of time. To do so the two heroes have to navigate the maze-like island and collect items - every found character provides hints for the next step.
 
