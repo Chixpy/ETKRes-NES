@@ -23,8 +23,8 @@ All images in .png format at original resolution: *256×240* (Emulators in NTSC 
 
 Generally:
 
-  * Scanned .jpg images 
-  * Maximum of 2048px in its largest side, if its smaller don't scale it up.
+  * Scanned or photo .jpg images 
+  * Maximum of 2048px in its largest side, if it is smaller don't scale it up.
   * If it's larger than 2048px, it's best to crop (see below) before scaling it down to 2048. Keeping aspect ratio.
   * Trying not to resave it many times. There are some transformations that can be done without lossing quality...
 
@@ -46,9 +46,9 @@ For Maps (or magazine game guides):
 
 Rule #1: Only 1 image for group or game. No folders with multiple images.
 
-Icons are mainly extracted from game screenshots at original resolution. Usually they are protagonist frames, lives icons or recognizable icon.
+Icons are mainly extracted from game screenshots at original resolution. Usually they are protagonist frames, lives icons or recognizable icon. But it's better to use the actual sprites.
 
-Logos are usually extracted from Title or Main Menu screens.
+Logos are usually extracted from Title or Main Menu screens, not front covers. 
 
 All images are .png format. Width and Height are variable, using it's original size without resizing to a fixed size or adding more border to make it square. Emuteca handle they automatically.
 
@@ -62,7 +62,7 @@ Alternatively, there is a [GIMP's script](https://github.com/Chixpy/Emuteca/tree
 
 ## About Texts
 
-Raw text `.txt`.
+Raw text .txt.
 
 Better if:
 
